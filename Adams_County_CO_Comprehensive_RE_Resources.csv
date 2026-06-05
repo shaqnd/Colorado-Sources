@@ -1,0 +1,298 @@
+Municipality,Category,Resource Name,URL,Notes
+Adams County (Unincorporated),Property Assessment,Assessor Property Lookup,https://adcogov.org/property-look,Primary parcel/property search tool for all of Adams County
+Adams County (Unincorporated),Property Assessment,Assessor GIS QuickSearch,https://gisapp.adcogov.org/quicksearch/,Address or parcel-based search with map
+Adams County (Unincorporated),Property Assessment,Assessor Main Page,https://adcogov.org/assessor,Assessor office info and resources
+Adams County (Unincorporated),Property Assessment,NOV / Online Appeals Portal,https://assessor.adcogov.org/,Notice of Valuation and assessment appeals
+Adams County (Unincorporated),Property Assessment,Public Data Download,https://assessornovs.adcogov.org/adamscountynovs,Weekly-updated bulk assessor data download
+Adams County (Unincorporated),Property Tax / Treasurer,Treasurer Division,https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/,Main treasurer page
+Adams County (Unincorporated),Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Pay property taxes online
+Adams County (Unincorporated),Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Look up tax balances and payment history
+Adams County (Unincorporated),Property Tax / Treasurer,Taxing Authorities / Mill Levy,https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/property-tax-information/taxing-authorities/,Mill levy lookup by taxing district
+Adams County (Unincorporated),Property Tax / Treasurer,DOLA Division of Property Taxation,https://dpt.colorado.gov/locality/adams-county-treasurer,Colorado state-level property tax data for Adams County
+Adams County (Unincorporated),Property Tax / Treasurer,DOLA Mill Levy Public Info (HB24-1302),https://dlg.colorado.gov/hb24-1302-mill-levy-public-information,Statewide mill levy transparency portal
+Adams County (Unincorporated),Deed / Title Records,Clerk & Recorder Recording Page,https://adcogov.org/recording,Official recording office
+Adams County (Unincorporated),Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Grantor/Grantee deed search
+Adams County (Unincorporated),Deed / Title Records,Public Records / Recorded Documents,https://adamscountyco.gov/service/find-public-records-recorded-documents/,How to find recorded docs
+Adams County (Unincorporated),Deed / Title Records,E-Recording,https://www.adcogov.org/e-recording,Electronic document recording
+Adams County (Unincorporated),GIS / Mapping,Advanced GIS Map Viewer,https://gisapp.adcogov.org/Html5Viewer/index.html?viewer=AdvancedExt.Advanced_HTML,Full-featured interactive map
+Adams County (Unincorporated),GIS / Mapping,Open Data Hub (ArcGIS),https://data-adcogov.opendata.arcgis.com/,Downloadable datasets including zoning, parcels, flood zones
+Adams County (Unincorporated),GIS / Mapping,GIS Interactive Maps Page,https://adamscountyco.gov/service/gis-interactive-maps/,Links to all county GIS tools
+Adams County (Unincorporated),Permits,E-Permit Center (Accela),https://aca-prod.accela.com/ADAMSCO/Default.aspx,Online permit applications and search
+Adams County (Unincorporated),Permits,E-Permit Center Landing,https://epermits.adcogov.org/,Permit portal landing page
+Adams County (Unincorporated),Permits,Building Safety,https://adcogov.org/building-safety,Building department info
+Adams County (Unincorporated),Code Enforcement,Eye on Adams (Permits + Violations),https://adamscounty.buildingeye.com/,Track permits and code enforcement cases
+Adams County (Unincorporated),Code Enforcement,Code Violations Enforcement Search,https://adamscounty.buildingeye.com/enforcement,Violation lookup only
+Adams County (Unincorporated),Code Enforcement,Neighborhood Services,https://adcogov.org/neighborhood-services,Report and track code complaints
+Adams County (Unincorporated),Zoning / Planning,Planning & Development Main Page,https://adamscountyco.gov/our-county/community-economic-development/planning-development/,Unincorporated area zoning authority
+Adams County (Unincorporated),Zoning / Planning,Zoning Dataset (ArcGIS Open Data),https://data-adcogov.opendata.arcgis.com/datasets/ADCOGOV::zoning/about,Downloadable zoning GIS layer
+Adams County (Unincorporated),Zoning / Planning,Development Standards & Regulations,https://online.encodeplus.com/regs/adamscounty-co/doc-viewer.aspx?secid=6410,Online land development code
+Adams County (Unincorporated),Flood Zone,Floodplain Management Page,https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain administrator
+Adams County (Unincorporated),Flood Zone,Flood Zones GIS Dataset,https://data-adcogov.opendata.arcgis.com/datasets/flood-zones,Downloadable FEMA flood zone layer
+Adams County (Unincorporated),Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Official FEMA FIRM lookup by address
+Adams County (Unincorporated),Flood Zone,Colorado Hazard Mapping / RiskMAP,https://coloradohazardmapping.com/hazardMapping/floodplainMapping,State-level flood mapping portal
+Adams County (Unincorporated),Flood Zone,FEMA National Flood Hazard Layer,https://www.fema.gov/flood-maps/national-flood-hazard-layer,National FEMA flood layer viewer
+Adams County (Unincorporated),Comprehensive Plan,Advancing Adams Comprehensive Plan,https://adamscountyco.gov/our-county/community-economic-development/advancing-adams/comprehensive-plan/,County master plan
+Adams County (Unincorporated),Comprehensive Plan,Master Plans & Maps,https://adcogov.org/master-plans-maps,All county master plans
+Adams County (Unincorporated),Comprehensive Plan,Sustainable Adams County 2030 Plan,https://adamscountyco.gov/wp-content/uploads/2026/01/CED-2030-Sustainability-Plan-011426.pdf,2030 sustainability/land use plan PDF
+Adams County (Unincorporated),Economic Development,Community & Economic Development (CEDD),https://adamscountyco.gov/our-county/community-economic-development/,County economic dev office
+Adams County (Unincorporated),Economic Development,ChooseAdams,https://chooseadams.org/business-services/,Business attraction portal
+Adams County (Unincorporated),Economic Development,Adams County EDC,https://adamscountyedc.com/,Economic Development Corporation
+Adams County (Unincorporated),Economic Development,2025 Economic Profile,https://adamscountyco.gov/wp-content/uploads/2025/11/2025-Adams-County-Economic-Profile-CED.pdf,Annual economic profile PDF
+Adams County (Unincorporated),Public Works / ROW,Public Works,https://adcogov.org/public-works,ROW permits and infrastructure info
+Brighton,Property Assessment,Adams County Assessor (Property Lookup),https://adcogov.org/property-look,Brighton is fully within Adams County
+Brighton,Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Adams County tax payment portal
+Brighton,Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Tax balance and history lookup
+Brighton,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Adams County deed/title records
+Brighton,GIS / Mapping,GIS Division,https://www.brightonco.gov/248/Geographic-Information-Systems,Brighton GIS maps and data
+Brighton,GIS / Mapping,Interactive Development Map,https://www.brightonco.gov/1596/Interactive-Development-Map,Active development projects map
+Brighton,Permits,Permitting Portal,https://www.brightonco.gov/222/Permitting,Building permit applications and search
+Brighton,Permits,Inspections,https://www.brightonco.gov/1130/Inspections,Schedule and track inspections
+Brighton,Permits,Land Use & Development Applications,https://www.brightonco.gov/1142/Land-Use-Development-Applications,Development application tracker
+Brighton,Permits,Development Services,https://www.brightonco.gov/1162/Development-Services,Development services department
+Brighton,Permits,Permit Reports (Commercial/Residential),https://brightonco.gov/1143/Reports,Issued permit statistics
+Brighton,Zoning / Planning,Planning & Zoning Main Page,https://www.brightonco.gov/224/Planning-Zoning,Zoning information and staff contacts
+Brighton,Zoning / Planning,Land Use & Development Code,https://www.brightonco.gov/363/Land-Use-Development-Code,Brighton's zoning code (Article 17 of Municipal Code)
+Brighton,Zoning / Planning,Long Range Planning / Comprehensive Plan,https://www.brightonco.gov/553/Long-Range-Planning,Be Brighton Comprehensive Plan
+Brighton,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Brighton,Flood Zone,Adams County Floodplain Management,https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain resources
+Brighton,Crime / Safety,Weekly Crime Reports & Crime Map,https://www.brightonco.gov/1862/Weekly-Crime-Reports-Crime-Map,Brighton PD crime map and reports
+Brighton,Public Records,Requesting Records (CORA),https://www.brightonco.gov/213/Requesting-Records-Information,Public records request process
+Brighton,School Districts,School District 27J (Brighton),https://www.sd27j.org/,Primary school district for Brighton
+Commerce City,Property Assessment,Adams County Assessor (Property Lookup),https://adcogov.org/property-look,Commerce City is fully within Adams County
+Commerce City,Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Adams County tax payment portal
+Commerce City,Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Tax balance and history lookup
+Commerce City,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Adams County deed/title records
+Commerce City,GIS / Mapping,Maps Data & GIS,https://www.c3gov.com/Residents/Maps-Data-GIS,City GIS maps and data
+Commerce City,GIS / Mapping,Commerce City Open Data (ArcGIS Hub),https://data-c3.opendata.arcgis.com/,Downloadable GIS datasets
+Commerce City,Permits,eTRAKiT Permits Page,https://www.c3gov.com/doing-business/developing-in-commerce-city/building-permits,Building permit info and portal link
+Commerce City,Permits,eTRAKiT Login / Permit Search,https://comc.csqrcloud.com/community-etrakit/,Online permit search and applications
+Commerce City,Permits,Building Permit Process,https://www.c3gov.com/doing-business/developing-in-commerce-city/building-permits-inspections/step-2-permit-application-contractor-licensing-reviews/building-permit-process,Step-by-step permit guide
+Commerce City,Permits,Civil Plan Approval / Grading Permits,https://www.c3gov.com/doing-business/developing-in-commerce-city/civil-plan-approval-grading-permits,Civil/grading permits
+Commerce City,Code Enforcement,Code Enforcement,https://www.c3gov.com/Government/Departments-Divisions/Code-Enforcement,Code enforcement department
+Commerce City,Zoning / Planning,Land Use Approvals,https://www.c3gov.com/Business-Development/Developing-in-Commerce-City/Land-Use-Approvals,Entitlement and approval process
+Commerce City,Zoning / Planning,Land Use Standards,https://www.c3gov.com/Business-Development/Developing-in-Commerce-City/Land-Use-Standards,Land use regulations and standards
+Commerce City,Zoning / Planning,Land Development Code,https://www.c3gov.com/Government/City-Codes/Land-Development-Code,Zoning code (updated 2025)
+Commerce City,Zoning / Planning,Comprehensive Plan,https://www.c3gov.com/Government/City-Charter-Master-Plans/Comprehensive-Plan,City comprehensive plan
+Commerce City,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Commerce City,Flood Zone,Adams County Floodplain Management,https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain resources
+Commerce City,Economic Development,Economic Development Department,https://www.c3gov.com/Government/Departments-Divisions/Economic-Development,City economic development office
+Commerce City,Crime / Safety,Records and Crime Statistics,https://www.c3gov.com/Public-Safety/Police-Department/Records-and-Crime-Statistics,Crime reports and statistics
+Commerce City,School Districts,Adams 12 Five Star Schools,https://www.adams12.org/,Primary district for Commerce City
+Commerce City,School Districts,School District 27J,https://www.sd27j.org/,Serves northern portions of Commerce City
+Commerce City,School Districts,Mapleton School District 1,https://www.mapleton.us/,Serves portions of Commerce City
+Federal Heights,Property Assessment,Adams County Assessor (Property Lookup),https://adcogov.org/property-look,Federal Heights is fully within Adams County
+Federal Heights,Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Adams County tax payment portal
+Federal Heights,Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Tax balance and history lookup
+Federal Heights,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Adams County deed/title records
+Federal Heights,GIS / Mapping,City Maps,https://www.fedheights.org/?SEC=D1A883BE-0C29-4602-8CC9-5D6A08DA5503,City map resources
+Federal Heights,Permits,Building Department,https://www.fedheights.org/building,Building permits and inspections
+Federal Heights,Code Enforcement,Code Enforcement,https://www.fedheights.org/codeenforcement,Code enforcement department
+Federal Heights,Zoning / Planning,Planning Department,https://www.fedheights.org/planning,Planning and zoning info
+Federal Heights,Zoning / Planning,Zoning Information Page,https://www.fedheights.org/index.asp?SEC=D7AA9940-8607-468A-8215-7308DD3BF799&Type=B_BASIC,Zoning district info and lookup
+Federal Heights,Zoning / Planning,Municipal Code (Municode),https://library.municode.com/co/federal_heights,Full zoning and municipal code
+Federal Heights,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Federal Heights,Economic Development,Economic Development / FHRA,https://www.fedheights.org/economicdevelopment,City economic development office
+Federal Heights,Utilities,Utilities Page,https://www.fedheights.org/utilities,Water/sewer utility info
+Federal Heights,Utilities,Public Works,https://www.fedheights.org/publicworks,Public works department
+Federal Heights,Utilities,Xcel Energy,https://www.xcelenergy.com/,Electric and gas provider for Federal Heights
+Federal Heights,School Districts,Adams 12 Five Star Schools,https://www.adams12.org/,Primary school district for Federal Heights
+Northglenn,Property Assessment,Adams County Assessor (Property Lookup),https://adcogov.org/property-look,Northglenn is fully within Adams County
+Northglenn,Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Adams County tax payment portal
+Northglenn,Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Tax balance and history lookup
+Northglenn,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Adams County deed/title records
+Northglenn,GIS / Mapping,Maps Page,https://www.northglenn.org/residents/about_northglenn/maps.php,City maps
+Northglenn,GIS / Mapping,Interactive Zoning Map (ArcGIS),https://www.arcgis.com/home/webmap/viewer.html?webmap=39b7188473574a07bcc84ca0ec3807fc,Citywide zoning map viewer
+Northglenn,Permits,Building Department,https://www.northglenn.org/government/departments/building/,Building dept (contracted to SAFEbuilt)
+Northglenn,Permits,Permits Page,https://www.northglenn.org/government/departments/building/permits.php,Permit types and applications
+Northglenn,Permits,Building Permit Info,https://www.northglenn.org/government/licenses_and_permits/building_permit.php,How to apply for a building permit
+Northglenn,Zoning / Planning,QuickZone (Address Zoning Lookup),https://secure.northglenn.org/quickzone,Instant zoning lookup by address — most user-friendly in county
+Northglenn,Zoning / Planning,Land Use and Zoning Main Page,https://www.northglenn.org/government/land_use_and_zoning/,Zoning department
+Northglenn,Zoning / Planning,Zoning Map,https://www.northglenn.org/government/land_use_and_zoning/zoning_map.php,Official citywide zoning map
+Northglenn,Zoning / Planning,Comprehensive Plan,https://www.northglenn.org/government/land_use_and_zoning/comprehensive_plan.php,City comprehensive plan
+Northglenn,Zoning / Planning,Planning and Development Department,https://www.northglenn.org/government/departments/planning_department/index.php,Planning department
+Northglenn,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Northglenn,Flood Zone,Adams County Floodplain Management,https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain resources
+Northglenn,Economic Development,Business Help / Economic Development,https://www.northglenn.org/biz/,City business resources
+Northglenn,Business License,Business License,https://www.northglenn.org/government/licenses_and_permits/business_license.php,Business license portal
+Northglenn,Short-Term Rental,Short-Term Rental License,https://www.northglenn.org/government/licenses_and_permits/short_term_rental_license.php,STR license requirements
+Northglenn,Crime / Safety,Crime Maps,https://secure.northglenn.org/maps/crime,Interactive crime map
+Northglenn,Crime / Safety,Crime Stats,https://www.northglenn.org/public_safety/police/crime_stats.php,Crime statistics
+Northglenn,Utilities,Water,https://www.northglenn.org/residents/water/,City water utility
+Northglenn,School Districts,Adams 12 Five Star Schools,https://www.adams12.org/,Primary school district for Northglenn
+Northglenn,School Districts,Schools Listing,https://www.northglenn.org/residents/schools.php,Northglenn school directory
+Thornton,Property Assessment,Thornton CityView Property Locator,https://cityviewportal.thorntonco.gov/Property,City-run parcel info portal with permit history
+Thornton,Property Assessment,Adams County Assessor (Property Lookup),https://adcogov.org/property-look,County assessment data
+Thornton,Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Adams County tax payment portal
+Thornton,Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Tax balance and history lookup
+Thornton,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Adams County deed/title records
+Thornton,GIS / Mapping,Open Data Site (ArcGIS),https://data-cityofthornton.opendata.arcgis.com/,Downloadable GIS datasets including zoning
+Thornton,GIS / Mapping,Interactive GIS Map Viewer,https://maps.thorntonco.gov/portal/apps/webappviewer/index.html?id=3ca678047c5b48568a9322c364808f7e,Full interactive city GIS map
+Thornton,GIS / Mapping,Development Code Hub (ArcGIS),https://city-of-thornton-development-code-cityofthornton.hub.arcgis.com/,Zoning and development code in map format
+Thornton,Permits,CityView Portal,https://cityviewportal.thorntonco.gov/,Permits search and property info
+Thornton,Permits,Permits & Inspections Portal,https://permits.thorntonco.gov/,Online permit applications and tracking
+Thornton,Code Enforcement,Code Compliance,https://www.thorntonco.gov/city-services/code-compliance,Code compliance department
+Thornton,Zoning / Planning,Current Planning & Zoning,https://www.thorntonco.gov/business-development/city-development/current-planning-zoning,Zoning department main page
+Thornton,Zoning / Planning,Zoning Districts Uses and Regulations,https://www.thorntonco.gov/business-development/city-development/current-planning-zoning/zoning-districts-uses-and-regulations,Detailed zoning district regulations
+Thornton,Zoning / Planning,Active Development,https://www.thorntonco.gov/business-development/active-development,Active and pending development projects
+Thornton,Zoning / Planning,Long Range Planning,https://www.thorntonco.gov/business-development/city-development/long-range-planning,Long range planning division
+Thornton,Zoning / Planning,Comprehensive Plan,https://www.thorntonco.gov/business-development/city-development/long-range-planning/plans/thornton-comprehensive-plan,City comprehensive plan
+Thornton,Zoning / Planning,Functional Strategic & Master Plans,https://www.thorntonco.gov/business-development/city-development/long-range-planning/plans/functional-strategic-master-plans,All city master plans
+Thornton,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Thornton,Flood Zone,Adams County Floodplain Management,https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain resources
+Thornton,Economic Development,City Development,https://www.thorntonco.gov/business-development/city-development,Business and development services
+Thornton,Business License,Business Licenses,https://www.thorntonco.gov/business-development/business-licenses,Business license portal
+Thornton,Short-Term Rental,STR Ordinance,https://www.thorntonco.gov/media/file/short-term-rental-ordinance,$180 annual fee; primary residence only
+Thornton,Crime / Safety,Thornton PD Crime Info,https://www.thorntonpd.org/crime-info,Crime statistics and reports
+Thornton,Utilities,Water,https://www.thorntonco.gov/city-services/water,City water services
+Thornton,Utilities,Thornton Water Authority,https://www.thorntonwater.com/,Thornton water authority
+Thornton,Utilities,Utility Billing,https://www.thorntonco.gov/city-services/utility-billing,Utility billing portal
+Thornton,Utilities,Electric & Gas Utility Services,https://www.thorntonco.gov/electric-gas-utility-services,Xcel Energy or United Power depending on location
+Thornton,Utilities,United Power,https://www.unitedpower.com/,Electric co-op serving parts of Thornton
+Thornton,Utilities,Xcel Energy,https://www.xcelenergy.com/,Electric/gas provider for parts of Thornton
+Thornton,School Districts,Adams 12 Five Star Schools,https://www.adams12.org/,Primary school district for Thornton
+Thornton,School Districts,School District 27J,https://www.sd27j.org/,Serves northeast Thornton
+Westminster,Property Assessment,Westminster eTRAKiT Parcel Search,https://develop.cityofwestminster.us/ETRAKIT/Search/parcel.aspx,City parcel/permit search
+Westminster,Property Assessment,Adams County Assessor (Adams Co. portion),https://adcogov.org/property-look,For parcels in eastern Westminster (Adams County)
+Westminster,Property Assessment,Jefferson County Assessor (Jefferson Co. portion),https://propertysearch.jeffco.us/,For parcels in western Westminster (Jefferson County)
+Westminster,Property Tax / Treasurer,Adams County Tax Payment (Adams Co. portion),https://adcotax.com/treasurer/web/login.jsp,For Adams County parcels
+Westminster,Property Tax / Treasurer,Jefferson County Treasurer (Jefferson Co. portion),https://jeffco.us/1293/Treasurer,For Jefferson County parcels
+Westminster,Deed / Title Records,Adams Co. Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,For Adams County parcels
+Westminster,Deed / Title Records,Jefferson County Clerk & Recorder,https://www.jeffco.us/1288/Clerk-Recorder,For Jefferson County parcels
+Westminster,GIS / Mapping,Westminster Open Data Hub (ArcGIS),https://opendata-westminster.hub.arcgis.com/,Downloadable GIS datasets
+Westminster,GIS / Mapping,Westminster Zoning Map (ArcGIS),https://maps.cityofwestminster.us/portal/apps/webappviewer/index.html?id=840164f9c48d49109f884695afe3f714,Official interactive zoning map
+Westminster,GIS / Mapping,Maps Page,https://www.westminsterco.gov/471/Maps,City maps
+Westminster,Permits,eTRAKiT Portal,https://develop.cityofwestminster.us/etrakit/,Online permit search and applications
+Westminster,Permits,Permit Search,https://develop.cityofwestminster.us/etrakit/Search/permit.aspx,Direct permit lookup
+Westminster,Permits,Apply for a Permit,https://www.westminsterco.gov/617/Apply-for-a-Permit-Project,Permit application guide
+Westminster,Permits,Building Division,https://www.westminsterco.gov/621/Building-Division,Building department
+Westminster,Permits,Right-of-Way Permits,https://www.westminsterco.gov/746/Right-of-Way-Permits,ROW encroachment permits
+Westminster,Zoning / Planning,Planning Main Page,https://www.westminsterco.gov/707/Planning,Planning department
+Westminster,Zoning / Planning,Develop in Westminster,https://www.westminsterco.gov/703/Develop-in-Westminster,Development guide
+Westminster,Zoning / Planning,Comprehensive Plan Executive Summary,https://www.westminsterco.gov/DocumentCenter/View/1467/Executive-Summary-PDF,City comprehensive plan summary
+Westminster,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Westminster,Flood Zone,Adams County Floodplain (eastern Westminster),https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,For Adams County portion
+Westminster,Economic Development,Westminster Economic Development,https://www.westminstereconomicdevelopment.org/,Economic development office
+Westminster,Economic Development,Proposed Developments Map,https://www.westminstereconomicdevelopment.org/area-maps/,Development pipeline and comp plan maps
+Westminster,Economic Development,Utilities & Tax Info,https://www.westminstereconomicdevelopment.org/about-westminster/water-utilities-taxes/,Utility providers and tax information
+Westminster,Short-Term Rental,Short-Term Rentals,https://www.westminsterco.gov/Short-TermRentals,STR regulations and licensing
+Westminster,Crime / Safety,CrimeMapping.com (Westminster PD),https://www.crimemapping.com/map/co/westminster,Interactive crime map
+Westminster,Crime / Safety,Westminster PD News / Crime Mapping,https://www.westminsterpdnews.com/crime-mapping,PD crime map
+Westminster,Utilities,Public Works & Utilities (Water),https://www.westminsterco.gov/water,City water utility
+Westminster,School Districts,Adams 12 Five Star Schools (east Westminster),https://www.adams12.org/,Serves eastern Adams County portion
+Westminster,School Districts,Jefferson County Public Schools (west Westminster),https://www.jeffcopublicschools.org/,Serves western Jefferson County portion
+Aurora,Property Assessment,Aurora Property Info Portal,https://ags.auroragov.org/propinfo/propinfo.html,City-run parcel info portal (all Aurora regardless of county)
+Aurora,Property Assessment,Aurora Property Information Page,https://www.auroragov.org/city_hall/maps/property_information,Property info map links
+Aurora,Property Assessment,Adams County Assessor (Adams Co. portion),https://adcogov.org/property-look,For parcels in northern Aurora (Adams County)
+Aurora,Property Assessment,Arapahoe County Assessor,https://www.arapahoegov.com/assessor,For parcels in central/southern Aurora (Arapahoe County)
+Aurora,Property Assessment,Douglas County Assessor,https://www.douglas.co.us/assessor/,For parcels in southern Aurora (Douglas County)
+Aurora,Property Tax / Treasurer,Adams County Tax Payment,https://adcotax.com/treasurer/web/login.jsp,For Adams County parcels
+Aurora,Property Tax / Treasurer,Arapahoe County Treasurer,https://www.arapahoegov.com/1053/Treasurer,For Arapahoe County parcels
+Aurora,Property Tax / Treasurer,Douglas County Treasurer,https://www.douglas.co.us/treasurer/,For Douglas County parcels
+Aurora,Deed / Title Records,Adams Co. Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,For Adams County parcels
+Aurora,Deed / Title Records,Arapahoe County Clerk & Recorder,https://www.arapahoegov.com/1043/Clerk-Recorder,For Arapahoe County parcels
+Aurora,GIS / Mapping,Aurora Open Data (ArcGIS Hub),https://data-auroraco.opendata.arcgis.com/,Downloadable GIS datasets
+Aurora,GIS / Mapping,Aurora Open Data Portal,https://opendata-cityofaurora.hub.arcgis.com/,Additional open data hub
+Aurora,GIS / Mapping,Maps Page,https://www.auroragov.org/city_hall/maps,All Aurora map portals
+Aurora,GIS / Mapping,Planning & Zoning Maps,https://www.auroragov.org/city_hall/maps/planning_and_zoning_maps,Planning and zoning map viewer
+Aurora,GIS / Mapping,Development Maps,https://www.auroragov.org/city_hall/maps/development_maps,Active development and pipeline maps
+Aurora,Permits,Permits Main Page,https://www.auroragov.org/business_services/building_division/permits,Building permit info
+Aurora,Permits,Licensing & Permits Maps,https://www.auroragov.org/city_hall/maps/licensing_and_permits_maps,Permit map viewer
+Aurora,Permits,Building Permit Statistics,https://www.auroragov.org/business_services/building_division/building_permit_statistics,Permit issuance stats and trends
+Aurora,Permits,Aurora Experience Permit Map (ArcGIS),https://experience.arcgis.com/experience/25e68ba47119437cb4bf6bdeea6fbea4,Interactive permit activity map
+Aurora,Zoning / Planning,Zoning Navigator,https://zoning.auroragov.org/,Primary zoning lookup tool — address-based
+Aurora,Zoning / Planning,Planning & Zoning Maps,https://www.auroragov.org/city_hall/maps/planning_and_zoning_maps,Planning and zoning map viewer
+Aurora,Zoning / Planning,Comprehensive Plan PlaceTypes (ArcGIS),https://data-auroraco.opendata.arcgis.com/datasets/9cfb0cffe16b41b68e38bcafbc4c037a_153/about,Future land use / place types dataset
+Aurora,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Aurora,Flood Zone,Colorado Hazard Mapping / RiskMAP,https://coloradohazardmapping.com/hazardMapping/floodplainMapping,State-level flood mapping portal
+Aurora,Economic Development,Economic & Business Development,https://www.auroragov.org/business_services/economic___business_development,City economic development office
+Aurora,Crime / Safety,Crime Data Portal,https://www.auroragov.org/residents/public_safety/police/crime_data,Transparency and accountability crime data
+Aurora,Crime / Safety,Police and Fire Maps,https://www.auroragov.org/city_hall/maps/police_and_fire_maps,PD/fire district maps
+Aurora,Demographics,Data & Demographics,https://www.auroragov.org/city_hall/about_aurora/data___demographics,City demographic and statistical data
+Aurora,Short-Term Rental,STR Info / FAQ,https://www.auroragov.org/common/pages/GetFile.ashx?key=0Fc6ARWp,STR rules: primary residence only; $43 initial / $26 renewal; 8% lodger's tax
+Aurora,School Districts,Aurora Public Schools,https://www.aurorak12.org/,Primary district for most of Aurora
+Aurora,School Districts,Cherry Creek School District,https://www.cherrycreekschools.org/,Serves parts of Aurora (Arapahoe Co. portion)
+Aurora,School Districts,Adams 12 Five Star Schools,https://www.adams12.org/,Serves northern Aurora (Adams Co. portion)
+Bennett,Property Assessment,Adams County Assessor (Property Lookup),https://adcogov.org/property-look,Bennett is fully within Adams County
+Bennett,Property Tax / Treasurer,Online Tax Payment,https://adcotax.com/treasurer/web/login.jsp,Adams County tax payment portal
+Bennett,Property Tax / Treasurer,Property Tax Inquiry,https://adamsil.devnetwedge.com/,Tax balance and history lookup
+Bennett,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Adams County deed/title records
+Bennett,GIS / Mapping,Bennett Zoning Map,https://www.bennettco.gov/business/page/bennett-zoning-map,Official zoning map
+Bennett,GIS / Mapping,Interactive ArcGIS Map,https://www.arcgis.com/apps/webappviewer/index.html?id=d36fe1b73c514d29ba9b6d2d818e183e,Interactive city map
+Bennett,GIS / Mapping,2021 Comp Plan (ArcGIS Experience),https://experience.arcgis.com/experience/3d3babff4d9e4ac998d13ed805412374,Comprehensive plan interactive viewer
+Bennett,Permits,Building Department,https://www.bennettco.gov/community-development/page/building-department,Building permits info
+Bennett,Permits,SmartGov Public Portal,https://twn-bennett-co.smartgovcommunity.com/,Online permit applications and search
+Bennett,Permits,Development Page,https://www.bennettco.gov/development,Development resources
+Bennett,Zoning / Planning,Planning and Zoning,https://www.bennettco.gov/planning-economic-development/page/planning-and-zoning,Zoning department
+Bennett,Zoning / Planning,Planning & Economic Development Dept,https://www.bennettco.gov/planning-economic-development,Planning and econ dev combined
+Bennett,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Bennett,Flood Zone,Adams County Floodplain Management,https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain resources
+Bennett,Economic Development,Why Bennett (Econ Dev Portal),https://whybennett.colorado.gov/,Business attraction and site selection
+Bennett,Economic Development,Infrastructure & Utilities (Why Bennett),https://whybennett.colorado.gov/infrastructure-and-utilities,Utility and infrastructure info for investors
+Bennett,Utilities,Utilities,https://www.bennettco.gov/site-selection/page/utilities,Town water/wastewater utilities
+Bennett,School Districts,Bennett School District 29J,https://www.bsd29j.com/,Local school district for Bennett
+Lochbuie,Property Assessment,Adams County Assessor (Adams Co. portion),https://adcogov.org/property-look,For Adams County parcels in Lochbuie
+Lochbuie,Property Assessment,Weld County Assessor (Weld Co. portion),https://www.weld.gov/Government/Departments/Assessor/Property-Data-Search,For Weld County parcels in Lochbuie
+Lochbuie,Property Tax / Treasurer,Adams County Tax Payment (Adams Co. portion),https://adcotax.com/treasurer/web/login.jsp,For Adams County parcels
+Lochbuie,Property Tax / Treasurer,Weld County Treasurer (Weld Co. portion),https://www.weldgov.com/departments/treasurer,For Weld County parcels
+Lochbuie,Deed / Title Records,Adams Co. Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,For Adams County parcels
+Lochbuie,Deed / Title Records,Weld County Clerk & Recorder,https://www.weld.gov/Government/Departments/Clerk-Recorder,For Weld County parcels
+Lochbuie,GIS / Mapping,Zoning Map,https://www.lochbuie.org/administration/page/zoning-map,Official town zoning map
+Lochbuie,Permits,Building Permits & Inspections,https://www.lochbuie.org/community-dev/page/building-permits-and-inspections,Building permits (contracted to SAFEbuilt)
+Lochbuie,Permits,Do I Need a Permit?,https://www.lochbuie.org/community-dev/page/do-i-need-permit,Permit requirement guide
+Lochbuie,Permits,Building Guides & Checklists,https://www.lochbuie.org/building/page/guides-and-checklists,Application checklists
+Lochbuie,Zoning / Planning,Current Planning,https://www.lochbuie.org/community-dev/page/current-planning,Active planning applications
+Lochbuie,Zoning / Planning,Municipal Code (Municode),https://library.municode.com/co/lochbuie/codes/municipal_code,Full zoning and municipal code
+Lochbuie,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Lochbuie,Flood Zone,Adams County Floodplain (Adams portion),https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,County floodplain resources for Adams Co. portion
+Lochbuie,School Districts,School District 27J,https://www.sd27j.org/,Primary school district for Lochbuie
+Arvada,Property Assessment,Adams County Assessor (small Adams Co. portion),https://adcogov.org/property-look,For the small eastern Adams County portion of Arvada
+Arvada,Property Assessment,Jefferson County Assessor (primary),https://propertysearch.jeffco.us/,For the primary Jefferson County portion of Arvada
+Arvada,Property Tax / Treasurer,Jefferson County Treasurer (primary),https://jeffco.us/1293/Treasurer,For Jefferson County parcels
+Arvada,Property Tax / Treasurer,Adams County Tax Payment (Adams Co. portion),https://adcotax.com/treasurer/web/login.jsp,For Adams County parcels
+Arvada,Deed / Title Records,Jefferson County Clerk & Recorder,https://www.jeffco.us/1288/Clerk-Recorder,For Jefferson County parcels
+Arvada,Deed / Title Records,Adams Co. Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,For Adams County parcels
+Arvada,GIS / Mapping,Arvada Open Data / GIS Hub (ArcGIS),https://gis-arvada.opendata.arcgis.com/,Downloadable GIS datasets including parcels
+Arvada,GIS / Mapping,Maps and Property Search,https://www.arvadaco.gov/702/Maps-and-Property-Search,City map and property portal
+Arvada,GIS / Mapping,Economic Development Maps,https://arvadaeconomicdevelopment.org/intel/maps/,Development pipeline and market maps
+Arvada,Permits,eTRAKiT Portal,https://arvadapermits.org/,Online permit search and applications
+Arvada,Permits,Building Permits Page,https://www.arvadaco.gov/332/Building-Permits,Building permit info
+Arvada,Permits,Check Permit Status / Schedule Inspection,https://www.arvadaco.gov/729/Check-the-Status-of-a-Permit-Schedule-a-,Permit status and inspection scheduling
+Arvada,Permits,eTRAKiT Permit Search,https://permits.arvada.org/etrakit3/Search/permit.aspx,Direct permit lookup
+Arvada,Zoning / Planning,Zoning Main Page,https://www.arvadaco.gov/168/Zoning,Zoning department with interactive zoning district map
+Arvada,Zoning / Planning,Speak Up Arvada (Community / Planning),https://speakup.arvadaco.gov/,Community engagement for planning and comprehensive plan
+Arvada,Flood Zone,Jefferson County Floodplain (primary),https://www.jeffco.us/2019/Flood-Mapping-and-Information,For Jefferson County portion
+Arvada,Flood Zone,Adams County Floodplain (Adams portion),https://adamscountyco.gov/our-county/community-economic-development/floodplain-management/,For Adams County portion
+Arvada,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,Address-specific FEMA FIRM lookup
+Arvada,Economic Development,Arvada Economic Development Association,https://arvadaeconomicdevelopment.org/,City economic development organization
+Arvada,Short-Term Rental,STR License,https://www.arvadaco.gov/,Annual license required; $350 fee
+Arvada,Crime / Safety,Crime Maps & Statistics,https://www.arvadaco.gov/538/Crime-Maps-Statistics,LexisNexis Community Crime Map
+Arvada,School Districts,Jefferson County Public Schools (primary),https://www.jeffcopublicschools.org/,Primary district for most of Arvada
+Arvada,School Districts,Adams 12 Five Star Schools (Adams Co. portion),https://www.adams12.org/,For the small Adams County portion
+REGIONAL / ALL MUNICIPALITIES,Property Assessment,Adams County Assessor — Main,https://adcogov.org/assessor,Covers all Adams County parcels regardless of city
+REGIONAL / ALL MUNICIPALITIES,Deed / Title Records,Adams County Clerk & Recorder,https://adcogov.org/recording,Official deeds and recording office
+REGIONAL / ALL MUNICIPALITIES,Deed / Title Records,Landmark Web Document Search,https://recording.adcogov.org/landmarkweb,Grantor/Grantee search for all Adams County
+REGIONAL / ALL MUNICIPALITIES,GIS / Mapping,Adams County Open Data Hub,https://data-adcogov.opendata.arcgis.com/,County-wide GIS datasets
+REGIONAL / ALL MUNICIPALITIES,GIS / Mapping,DRCOG Regional Data Catalog,https://data.drcog.org/,Metro Denver regional data
+REGIONAL / ALL MUNICIPALITIES,GIS / Mapping,DRCOG Data & Maps,https://www.drcog.org/data-maps-modeling,Regional planning maps
+REGIONAL / ALL MUNICIPALITIES,GIS / Mapping,DRCOG Community Profiles,https://www.drcog.org/data-maps-modeling/community-profiles,Demographic and growth profiles by municipality
+REGIONAL / ALL MUNICIPALITIES,GIS / Mapping,Colorado Geospatial Portal,https://geodata.colorado.gov/,Statewide GIS data portal
+REGIONAL / ALL MUNICIPALITIES,GIS / Mapping,Colorado Division of Water Resources GIS,https://dwr.colorado.gov/services/data-information/gis,Water rights and irrigation GIS data
+REGIONAL / ALL MUNICIPALITIES,Traffic / Transportation,CDOT Traffic Counts (OTIS),https://dtdapps.coloradodot.info/otis,Official Colorado traffic count data by highway/road
+REGIONAL / ALL MUNICIPALITIES,Traffic / Transportation,CDOT Open Data (ArcGIS),https://data-cdot.opendata.arcgis.com/,Statewide transportation datasets
+REGIONAL / ALL MUNICIPALITIES,Traffic / Transportation,CDOT Highway Traffic Counts Dataset,https://data-cdot.opendata.arcgis.com/datasets/highways-traffic-counts/about,Downloadable traffic count dataset
+REGIONAL / ALL MUNICIPALITIES,Entity / Ownership Lookup,Colorado Secretary of State — Business Entity Search,https://www.sos.state.co.us/biz/BusinessEntityCriteriaExt.do,Look up LLCs and ownership entities
+REGIONAL / ALL MUNICIPALITIES,Entity / Ownership Lookup,Colorado Secretary of State — Advanced Search,https://www.sos.state.co.us/biz/AdvancedSearchCriteria.do,Advanced entity search
+REGIONAL / ALL MUNICIPALITIES,Licensing / Regulation,Colorado Division of Real Estate (DORA),https://dre.colorado.gov/,State real estate license lookups and regulations
+REGIONAL / ALL MUNICIPALITIES,Licensing / Regulation,Colorado CORA (Open Records Act) — SOS,https://www.sos.state.co.us/pubs/info_center/cora.html,How to make public records requests
+REGIONAL / ALL MUNICIPALITIES,Flood Zone,FEMA Map Service Center,https://msc.fema.gov/,FEMA FIRM — address-specific flood zone lookup
+REGIONAL / ALL MUNICIPALITIES,Flood Zone,Colorado Hazard Mapping / RiskMAP,https://coloradohazardmapping.com/hazardMapping/floodplainMapping,State-level flood mapping portal
+REGIONAL / ALL MUNICIPALITIES,MLS / Listings,REcolorado MLS (licensed professionals),https://recolorado.com/,Primary Denver metro MLS
+REGIONAL / ALL MUNICIPALITIES,MLS / Listings,ColoProperty.com (public listings portal),https://coloproperty.com/,Public-facing MLS listings
+REGIONAL / ALL MUNICIPALITIES,MLS / Listings,IRES MLS,https://iresmls.com/,Northern Colorado MLS
+REGIONAL / ALL MUNICIPALITIES,School Districts,Adams 12 Five Star Schools,https://www.adams12.org/,Serves Brighton, Commerce City, Federal Heights, Northglenn, Thornton, Westminster (Adams Co. portion)
+REGIONAL / ALL MUNICIPALITIES,School Districts,School District 27J (Brighton),https://www.sd27j.org/,Serves Brighton, northeast Thornton, Lochbuie
+REGIONAL / ALL MUNICIPALITIES,School Districts,Mapleton School District 1,https://www.mapleton.us/,Serves portions of Commerce City and unincorporated Adams County
+REGIONAL / ALL MUNICIPALITIES,School Districts,Aurora Public Schools,https://www.aurorak12.org/,Serves Aurora
+REGIONAL / ALL MUNICIPALITIES,School Districts,Cherry Creek School District,https://www.cherrycreekschools.org/,Serves parts of Aurora (Arapahoe Co. portion)
+REGIONAL / ALL MUNICIPALITIES,School Districts,Bennett School District 29J,https://www.bsd29j.com/,Serves Bennett
+REGIONAL / ALL MUNICIPALITIES,School Districts,Jefferson County Public Schools,https://www.jeffcopublicschools.org/,Serves Westminster and Arvada (Jefferson Co. portions)
